@@ -2,12 +2,14 @@
 エフェクトの記事をいくつか執筆しています。<br>
 <br>
  
-###### Unityエフェクトレシピ 02 - 六角形シールド表現 (1/2)
+###### Unityエフェクトレシピ 02 - 六角形シールド表現 
 http://r-ngtm.hatenablog.com/entry/2020/06/18/210918<br>
+http://r-ngtm.hatenablog.com/entry/2020/07/15/235544<br>
 <iframe width="320" height="240"  src="https://www.youtube.com/embed/vTw1rseHxHE" 
 frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>]
 </iframe><br>
 <br>
+
 
 ###### Unityエフェクトレシピ01 - SFテイストのバリア
 http://r-ngtm.hatenablog.com/entry/2020/04/24/001356<br>
