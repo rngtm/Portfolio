@@ -1,5 +1,5 @@
 * [Introduction](README.md)
 * [Skills](markdown/01_skill.md)
 * [Development](markdown/02_development.md)
-* [Blog](markdown/03_blog.md)
+* [CG Programming](markdown/03_cg_programming.md)
 * [Game VFX](markdown/04_game_vfx.md)

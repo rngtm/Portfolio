@@ -1,3 +1,6 @@
+# Game VFX
+シェーダーや、ゲーム系エフェクトのアウトプットをまとめていきます。<br>
+
 ### ゲームエフェクト 記事の執筆
 エフェクトの記事をいくつか執筆しています。<br>
 <br>
@@ -42,9 +45,4 @@ https://twitter.com/i/moments/1164876055288545281<br>
 ゲームエフェクトに関係しそうなメモをまとめています。<br>
 https://scrapbox.io/rn-works/<br>
 Houdini、SubstanceDesinger、Unity に関するものが多いです。<br>
-<br>
-
-### 手書きエフェクト
-手描きのエフェクトを趣味で描いていたこともありました。<br>
-[2DFX](markdown/2dfx.md)
 <br>

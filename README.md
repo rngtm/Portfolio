@@ -10,7 +10,7 @@ Zenn : https://zenn.dev/r_ngtm <br>
 <br>
 
 ### スキル
-* [Skill](markdown/skill.md)<br>
+* [Skill](markdown/01_skill.md)<br>
 <br>
 
 ## 興味 1
@@ -19,16 +19,20 @@ Zenn : https://zenn.dev/r_ngtm <br>
 ・シェーダーを利用したグラフィック表現<br>
 ・Houdini, SubstanceDesinger, Unityなどを組み合わせたエフェクト表現<br>
 <br>
+[CGプログラミング](markdown/03_cg_programming.md)<br>
+<br>
+
 
 ### GLSL作品
-GLSLのレイマーチングを使用した作品はNEORTにまとめています。<br>
+GLSLを使用して、映像作品を制作しています。<br>
+<img src = "gif/raymarch/01_shadow.gif"><br>
+<img src = "gif/raymarch/02_bamboo.gif"><br>
+
+GLSLを使った作品はNEORTにまとめています。<br>
 https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53
 
-<img src = "gif/raymarch/raymarch001.gif">
-<img src = "gif/raymarch/raymarch002.gif">
-
 ### シェーダー・VFXに関するアウトプット
-* [Realtime VFX](markdown/vfx.md)<br>
+[ゲームVFX](markdown/04_game_vfx.md)<br>
 <br>
 
 ## 興味 2
@@ -47,8 +51,8 @@ UnityRoomで2Dゲーム作品を8個公開しています。<br>
 https://unityroom.com/users/ehq0janm86py35vwl4kd<br>
 
 ## 開発系アウトプット
-* [Tool Dev](markdown/tools.md)<br>
+[Development](markdown/02_development.md)<br>
 
 ## その他の趣味
-アニメの手描き調のエフェクトを作ることに興味がありました。(2019/6 ~ 2020/8)<br>
-* [2DFX](markdown/2dfx.md) <br>
+アニメの手描き調エフェクトを作ることに興味がありました。(2019/6 ~ 2020/8)<br>
+[2DFX](markdown/09_2dfx.md) <br>
