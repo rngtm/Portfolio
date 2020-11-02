@@ -41,10 +41,10 @@ https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53
 
 ### VRゲーム作品 : うんちゃんタワー
 NEWVIEW CYPHERというイベントへ向けて、おめシスのうんちゃんを使ったVRゲームを作ってみました。<br>
-<iframe width="320" height="240"  src="https://www.youtube.com/watch?v=K1InboPOOAY" 
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe><br>
-<br>
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/K1InboPOOAY" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2Dゲーム作品
 UnityRoomで2Dゲーム作品を8個公開しています。<br>
