@@ -26,6 +26,7 @@ GPU Gemsの大気散乱
 <img src = "../gif/raymarch/03_lens_chromatic_abberation.gif">
 
 ## 高さフォグ
-高度Hでのフォグ密度を1 - h / H として、Rayが通過するフォグを積分したものを描画しています。<br>
+高度hでのフォグ密度を1 - h / H として、Rayが通過するフォグを積分したものを描画しています。<br>
 <img src = "../gif/raymarch/05_height_fog.gif">
 
+git
