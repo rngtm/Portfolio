@@ -24,3 +24,8 @@ GPU Gemsの大気散乱
 ## 球体レンズ
 光の屈折・反射の実装を学びつつ作成した作品です。<br>
 <img src = "../gif/raymarch/03_lens_chromatic_abberation.gif">
+
+## 高さフォグ
+高度Hでのフォグ密度を1 - h / H として、Rayが通過するフォグを積分したものを描画しています。<br>
+<img src = "../gif/raymarch/05_height_fog.gif">
+
