@@ -25,7 +25,7 @@ Zenn : https://zenn.dev/r_ngtm <br>
 
 ### GLSL作品
 GLSLを使用して、映像作品を制作しています。<br>
-<img src = "gif/raymarch/01_shadow.gif"><br>
+<img src = "gif/raymarch/8_water_refraction.gif"><br>
 <img src = "gif/raymarch/02_bamboo.gif"><br>
 
 GLSLを使った作品はNEORTにまとめています。<br>

@@ -13,6 +13,10 @@ https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53 <br>
     <a href="https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch02.html">GPU Gems</a>を参考にして、コースティクスを実装しました。<br>
     <img src = "../gif/raymarch/7_voronoi_caustics.gif">
     </td>
+    <td>
+    光の屈折を使用した水の表現です。<br>
+    <img src = "../gif/raymarch/8_water_refraction.gif">
+    </td>
 </tr>
 <tr>
     <td>
