@@ -6,16 +6,16 @@ GLSLのレイマーチングを使用した作品はNEORTにまとめていま�
 https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53 <br>
 <br>
 
-<table>
+<table> 
 <tr>
     <td>
     セルラーノイズを利用した水中表現です。<br>
     <a href="https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch02.html">GPU Gems</a>を参考にして、コースティクスを実装しました。<br>
-    <img src = "../gif/raymarch/7_voronoi_caustics.gif">
-    </td>
+    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/bujlcek3p9f7gige9t7g?autoStart=true&quality=1&info=true" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
+    </td>    
     <td>
     光の屈折を使用した水の表現です。<br>
-    <img src = "../gif/raymarch/8_water_refraction.gif">
+    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/buj5n3k3p9f7gige9r0g?autoStart=true&quality=1&info=true" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
     </td>
 </tr>
 <tr>
