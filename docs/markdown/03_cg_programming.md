@@ -9,9 +9,15 @@ https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53 <br>
 <table>
 <tr>
     <td>
+    Schlickの近似を利用した水の表現です。<br>
+    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/buo8u4s3p9f7gigeamng?autoStart=false&quality=1&info=true" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
+    </td>
+</tr>
+<tr>
+    <td>
     光の屈折を使用した水の表現です。<br>
     <img src = "../gif/raymarch/8_water_refraction.gif">
-    </td>
+    </td>gitb
     <td>
     セルラーノイズを利用した水中表現です。<br>
     <a href="https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch02.html">GPU Gems</a>を参考にして、コースティクスを実装しました。<br>
