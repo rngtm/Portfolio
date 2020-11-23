@@ -9,8 +9,12 @@ https://neort.io/Y2hWnzYpeUhPFLWEAZImqMboQI53 <br>
 <table>
 <tr>
     <td>
-    Schlickの近似を利用した水の表現です。<br>
-    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/buo8u4s3p9f7gigeamng?autoStart=false&quality=1&info=true" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
+    シュリックの近似を利用して、金の延べ棒をレンダリングしたものです。<br>
+    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/butoc6k3p9f7gigec0qg?autoStart=false&quality=1&info=false" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
+    </td>
+    <td>
+    シュリックの近似を利用して、水の反射・屈折を描画したものです。<br>
+    <iframe height="315" style="max-width: 560px; width: 100%; overflow:hidden; display:block;" src="https://neort.io/embed/buo8u4s3p9f7gigeamng?autoStart=true&quality=1&info=false" frameborder="0" sandbox="allow-forms allow-modals allow-pointer-lock allow-popups allow-same-origin allow-scripts" allow="geolocation; microphone; camera; midi; vr" allowfullscreen="true" allowtransparency="true"></iframe>
     </td>
 </tr>
 <tr>
