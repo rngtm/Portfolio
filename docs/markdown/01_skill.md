@@ -1,12 +1,12 @@
 # Skills 
 スキルをまとめていきます。
 
-## Tools (使えるツール)
+## Tools (使用可能なツール)
 ・Unity/UE4<br>
 ・Git<br>
 ・Visual Studio/Visual Studio Code/JetBrains Rider/Atom<br>
 ・Houdini/Substance Designer<br>
-・AfterEffects/Photoshop/Illustrator<br>
+・Adobe AfterEffects/Adobe Photoshop/Adobe Illustrator<br>
 <br>
 
 ## Programming Language
