@@ -12,9 +12,11 @@ Zenn : https://zenn.dev/r_ngtm <br>
 * [職務経歴](markdown/05_career.md)<br>
 <br>
 
+## 活動記録
+* [2021年 活動記録](markdown/activity_log/2021_01.md)<br>
+
 ## 得意分野
 数学・物理学・シェーダーなどを利用した表現の実装が得意です<br>
-
 
 ## シェーダーグラフ
 はてなブログにて、Unityシェーダーグラフの記事を不定期で発信しています。<br>

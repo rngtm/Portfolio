@@ -1,4 +1,5 @@
 * [はじめに](README.md)
+* [活動記録](markdown/activity_log/2021_01.md)
 * [職務経歴](markdown/05_career.md)
 * [スキル](markdown/01_skill.md)
 * [開発](markdown/02_development.md)
