@@ -15,7 +15,7 @@ Zenn : https://zenn.dev/r_ngtm <br>
 ## 技術書
 Unity ShaderGraphの本をリリースしました。<br>
 <img src="markdown/images/book/cover.png" width = "120"> <br>
-https://zenn.dev/r_ngtm/books/shadergraph-cookbook> <br>
+https://zenn.dev/r_ngtm/books/shadergraph-cookbook <br>
 
 ## ブログ
 はてなブログにて、Unityシェーダーグラフの記事を不定期で発信しています。<br>
