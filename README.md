@@ -1,3 +1,12 @@
+## はじめに
+このポートフォリオはgitbookで作成しています。<br>
+以下のURLにアクセスすることで、ポートフォリオを見ることができます。<br>
+https://rngtm.github.io/Portfolio/<br>
+<br>
+
+Notionにも個人経歴書を載せています。<br>
+https://meowing-rice-7a8.notion.site/f10210b3e9df44b1846c87bcdd643216
+
 ## 自己紹介
 職業 : Unityエンジニア <br>
 Twitter : https://twitter.com/rn49rn49<br>
